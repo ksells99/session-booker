@@ -9,3 +9,5 @@ The application is powered by a MongoDB database, and uses React and Redux for s
 The app is hosted on Heroku and can be accessed here: **https://ksells-session-booker.herokuapp.com/**
 
 ![Sessions](/showcase-1.png?raw=true "Sessions")
+![Bookings](/showcase-2.png?raw=true "Bookings")
+![AddBookings](/showcase-3.png?raw=true "Add Bookings")
