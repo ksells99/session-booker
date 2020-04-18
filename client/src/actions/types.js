@@ -1,0 +1,35 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const CLEAR_SESSIONS = "CLEAR_SESSIONS";
+export const CLEAR_MEMBERS = "CLEAR_MEMBERS";
+export const CLEAR_BOOKINGS = "CLEAR_BOOKINGS";
+
+export const GET_SESSIONS = "GET_SESSIONS";
+export const GET_SESSION = "GET_SESSION";
+export const ADD_SESSION = "ADD_SESSION";
+export const DELETE_SESSION = "DELETE_SESSION";
+export const SESSIONS_ERROR = "SESSIONS_ERROR";
+
+export const GET_BOOKINGS = "GET_BOOKINGS";
+export const GET_SESSIONBOOKINGS = "GET_SESSIONBOOKINGS";
+export const BOOKINGS_ERROR = "BOOKINGS_ERROR";
+export const ADD_BOOKING = "ADD_BOOKING";
+export const DELETE_BOOKING = "DELETE_BOOKING";
+
+export const GET_MEMBERS = "GET_MEMBERS";
+export const GET_MEMBER = "GET_MEMBER";
+export const MEMBERS_ERROR = "MEMBERS_ERROR";
+export const ADD_MEMBER = "ADD_MEMBER";
+export const DELETE_MEMBER = "DELETE_MEMBER";
+export const EDIT_MEMBER = "EDIT_MEMBER";
+
+export const SET_LOADING = "SET_LOADING";
